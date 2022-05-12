@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "email": "abdijepri@gmail.com",
+      "name": "Abdi",
+      "password": "123@123",
+      "id": 1
+    }
+  ],
+  "apotek": [
+    {
+      "id": 2,
+      "name": "Kimia Farma Bojongsoang",
+      "contact": "0811-2157-690",
+      "address": "Bojongsoang, Bandung Regency, West Java 40288"
+    },
+    {
+      "id": 3,
+      "name": "Apotek Griya Farma",
+      "contact": "(022) 7508140)",
+      "address": "Jl. Raya Bojongsoang No.Raya, Lengkong, Bojongsoang, Bandung Regency, West Java 40287"
+    },
+    {
+      "name": "Apotek Batu Permata",
+      "address": "Jl. Raya Bojongsoang No.197, Lengkong, Kec. Bojongsoang, Kabupaten Bandung, Jawa Barat 40287",
+      "contact": "081296214780",
+      "id": 4
+    },
+    {
+      "name": "Apotek ciganitri farma",
+      "address": "Jl. Ciganitri No.8, Cipagalo, Kec. Bojongsoang, Kabupaten Bandung, Jawa Barat 40287",
+      "contact": " 0877-2239-0696",
+      "id": 5
+    }
+  ]
+}
